@@ -1,6 +1,6 @@
 <div align="center">
 
-# Homeverse 🏡 Real Estate Agency Website 🌐
+# Homeverse 🏡 Real Estate Agency Website 🌍
 
 <br/>
 
@@ -74,3 +74,4 @@ HTML5 • CSS3 • JavaScript
 Designed and Developed with 🧠 by Muhammad Tanveer Abbas 🌟
 
 </div>
+
