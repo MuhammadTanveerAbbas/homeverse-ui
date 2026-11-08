@@ -25,7 +25,7 @@ It focuses on an intuitive interface, elegant visuals, and interactive features 
 
 Real estate websites require **mobile-friendly, visually appealing layouts** that provide easy navigation and fast access to property details.
 
-**Homeverse** delivers a clean, modern experience optimized for Pakistani users and overseas clients.
+**Homeverse** delivers a clean, modern experience optimized for worldwide users.
 
 ---
 
